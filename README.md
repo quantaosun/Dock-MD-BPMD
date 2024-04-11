@@ -19,7 +19,7 @@ To achieve this, two aspects of the puzzle are needed,
 
 ## 3. Binding pose metadynamics with OpenBPMD on Colab 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/quantaosun/Dock-MD-BPMD/blob/main/Amber_Inputs_prmtop_crd_Open_Binding_Pose_MetaDynamics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/Dock-MD-BPMD/blob/main/Amber_Inputs_prmtop_crd_Open_Binding_Pose_MetaDynamics.ipynb)
 
 (paid service, GPU required, V100 or above)
 
@@ -31,3 +31,4 @@ To achieve this, two aspects of the puzzle are needed,
 4. D. Lukauskis, M. L. Samways, S. Aureli, B. P. Cossins, R. D. Taylor, F. L. Gervasio, _J. Chem. Inf. Model._ 2022, 62, 23, 6209–6216, DOI:[https://doi.org/10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jcim.2c01142)
 5. https://mybinder.org/
 6. https://colab.research.google.com/
+

@@ -10,7 +10,7 @@ To achieve this, two aspects of the puzzle are needed,
 
 (free service, only CPU required)
 
-## 2. Amber inputs generation with OpenMM on Binder 
+## 2. Amber inputs generation on Binder 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/pl3_gmx_mmpbsa/HEAD) 
 

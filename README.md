@@ -23,12 +23,14 @@ To achieve this, two aspects of the puzzle are needed,
 
 (paid service, GPU required, V100 or above)
 
-## References
+## Credits/References//Platforms
 
 1. https://github.com/quantaosun/labodock_binder
-2. Arantes P.R., Depólo Polêto M., Pedebos C., Ligabue-Braun R. Making it rain: cloud-based molecular simulations for everyone. Journal of Chemical Information and Modeling 2021. DOI: 10.1021/acs.jcim.1c00998.
-3. A. J. Clark, P. Tiwary, K. Borrelli, S. Feng, E. Miller, R. Abel, R. A. Friesner, B. J. Berne, _J. Chem. Theory Comput._ 2016, 12, 6, 2990–2998, DOI:[https://doi.org/10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jctc.6b00201) 
-4. D. Lukauskis, M. L. Samways, S. Aureli, B. P. Cossins, R. D. Taylor, F. L. Gervasio, _J. Chem. Inf. Model._ 2022, 62, 23, 6209–6216, DOI:[https://doi.org/10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jcim.2c01142)
-5. https://mybinder.org/
-6. https://colab.research.google.com/
+2. https://github.com/RyanZR/labodock
+3. https://github.com/pablo-arantes/making-it-rain
+4. Arantes P.R., Depólo Polêto M., Pedebos C., Ligabue-Braun R. Making it rain: cloud-based molecular simulations for everyone. Journal of Chemical Information and Modeling 2021. DOI: 10.1021/acs.jcim.1c00998.
+5. A. J. Clark, P. Tiwary, K. Borrelli, S. Feng, E. Miller, R. Abel, R. A. Friesner, B. J. Berne, _J. Chem. Theory Comput._ 2016, 12, 6, 2990–2998, DOI:[https://doi.org/10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jctc.6b00201) 
+6. D. Lukauskis, M. L. Samways, S. Aureli, B. P. Cossins, R. D. Taylor, F. L. Gervasio, _J. Chem. Inf. Model._ 2022, 62, 23, 6209–6216, DOI:[https://doi.org/10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jcim.2c01142)
+7. https://mybinder.org/
+8. https://colab.research.google.com/
 

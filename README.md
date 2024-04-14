@@ -10,6 +10,9 @@ To achieve this, two aspects of the puzzle are needed,
 
 (free service, only CPU required)
 
+Note, in most cases people would use a PDB id that has been registered in the PDB bank, but if you have an in-house receptor, use this variation.
+https://colab.research.google.com/github/quantaosun/labodock_binder/blob/main/labodock_native_interaction/wedock_mac_local_receptor_native_interaction.ipynb
+
 ## 2. Amber inputs generation on Binder 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/pl3_gmx_mmpbsa/HEAD) 

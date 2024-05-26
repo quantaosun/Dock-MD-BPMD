@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sun"
+  given-names: "Quantao"
+orcid: https://orcid.org/0009-0004-7537-2703
+title: "Dock_MD_BPMD"
+version: 1.0.0
+doi: 10.5281/zenodo.11313429
+date-released: 2024-04-11
+repository-code: https://github.com/quantaosun/Dock-MD-BPMD
+keywords:
+  - "drug design"
+  - "molecular docking"
+  - "binding pose metadynamics"
+  - "metadynamic"
+  - "docked poses re-ranking"
+license: MIT
+url: "https://github.com/quantaosun/Dock-MD-BPMD"
